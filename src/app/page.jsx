@@ -108,7 +108,7 @@ export default function Component() {
           <div className="text-center space-y-4 md:space-y-6">
             <h1
               className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
-              Hola, soy Juan Pérez
+              Hola, soy Pablo Schefer
             </h1>
             <p
               className="max-w-[700px] mx-auto text-muted-foreground md:text-xl lg:text-lg">
