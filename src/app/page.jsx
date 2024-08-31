@@ -195,7 +195,7 @@ export default function Component() {
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="/placeholder.svg"
+                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
                   width="400"
                   height="225"
                   alt="Proyecto 1"
@@ -214,7 +214,7 @@ export default function Component() {
               </CardContent>
               <CardFooter className="flex justify-end">
                 <Link
-                  href="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
+                  href="#"
                   className="inline-flex h-9 items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:scale-105 duration-300"
                   prefetch={false}>
                   Ver más
@@ -224,7 +224,7 @@ export default function Component() {
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="#"
+                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
                   width="400"
                   height="225"
                   alt="Proyecto 2"
@@ -243,7 +243,7 @@ export default function Component() {
               </CardContent>
               <CardFooter className="flex justify-end">
                 <Link
-                  href="/placeholder.svg"
+                  href="#"
                   className="inline-flex h-9 items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:scale-105 duration-300"
                   prefetch={false}>
                   Ver más
