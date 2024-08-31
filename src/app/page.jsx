@@ -135,7 +135,11 @@ export default function Component() {
             width="1200"
             height="600"
             alt="Intro"
-            className="mx-auto aspect-[2/1] overflow-hidden rounded-t-xl object-cover object-center" />
+            className="mx-auto aspect-[2/1] overflow-hidden rounded-lg object-cover object-center"
+            style={{
+              borderRadius: '10px', borderBottomLeftRadius: '0px', borderBottomRightRadius: '0px'
+            }}
+          />
         </div>
       </section>
       <section id="about" className="py-12 md:py-24 lg:py-32">
@@ -195,7 +199,11 @@ export default function Component() {
                   width="400"
                   height="225"
                   alt="Proyecto 1"
-                  className="aspect-[16/9] overflow-hidden rounded-t-xl object-cover" />
+                  className="aspect-[16/9] overflow-hidden rounded-xl object-cover"
+                  style={{
+                    borderRadius: '10px', borderBottomLeftRadius: '0px', borderBottomRightRadius: '0px'
+                  }}
+                />
               </div>
               <CardContent className="p-4">
                 <h3 className="text-xl font-semibold">Proyecto 1</h3>
@@ -220,7 +228,11 @@ export default function Component() {
                   width="400"
                   height="225"
                   alt="Proyecto 2"
-                  className="aspect-[16/9] overflow-hidden rounded-t-xl object-cover" />
+                  className="aspect-[16/9] overflow-hidden rounded-xl object-cover"
+                  style={{
+                    borderRadius: '10px', borderBottomLeftRadius: '0px', borderBottomRightRadius: '0px'
+                  }}
+                />
               </div>
               <CardContent className="p-4">
                 <h3 className="text-xl font-semibold">Proyecto 2</h3>
@@ -245,7 +257,11 @@ export default function Component() {
                   width="400"
                   height="225"
                   alt="Proyecto 3"
-                  className="aspect-[16/9] overflow-hidden rounded-t-xl object-cover" />
+                  className="aspect-[16/9] overflow-hidden rounded-xl object-cover"
+                  style={{
+                    borderRadius: '10px', borderBottomLeftRadius: '0px', borderBottomRightRadius: '0px'
+                  }}
+                />
               </div>
               <CardContent className="p-4">
                 <h3 className="text-xl font-semibold">Proyecto 3</h3>
