@@ -39,7 +39,7 @@ export default function Component() {
         <div className="container mx-auto flex justify-between items-center">
           <Link href="#" className="flex items-center gap-2" prefetch={false}>
             <CodeIcon className="h-6 w-6" />
-            <span className="text-lg font-semibold animate-pulse text-primary">Pablo Schefer Orduña</span>
+            <span className="text-lg font-semibold animate-pulse text-primary">Sr.Orduña</span>
           </Link>
           <nav className="hidden md:flex gap-4">
             <Link
