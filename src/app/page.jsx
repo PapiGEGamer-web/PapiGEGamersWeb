@@ -39,7 +39,7 @@ export default function Component() {
         <div className="container mx-auto flex justify-between items-center">
           <Link href="#" className="flex items-center gap-2" prefetch={false}>
             <CodeIcon className="h-6 w-6" />
-            <span className="text-lg font-semibold animate-pulse text-primary">Sr.Orduña</span>
+            <span className="text-lg font-semibold animate-pulse text-primary">Pablo Schefer Orduña</span>
           </Link>
           <nav className="hidden md:flex gap-4">
             <Link
@@ -131,7 +131,7 @@ export default function Component() {
             </div>
           </div>
           <img
-            src="https://cdn.discordapp.com/avatars/979165049258143777/d0107a00f718473260af2f86e576bc09.webp?size=4096"
+            src="https://discord.com/channels/@me/1182396228567322728/1279278381925531738"
             width="1200"
             height="600"
             alt="Intro"
@@ -214,7 +214,7 @@ export default function Component() {
               </CardContent>
               <CardFooter className="flex justify-end">
                 <Link
-                  href="#"
+                  href="https://discord.com/channels/@me/1182396228567322728/1279278381925531738"
                   className="inline-flex h-9 items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:scale-105 duration-300"
                   prefetch={false}>
                   Ver más
@@ -224,7 +224,7 @@ export default function Component() {
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="/placeholder.svg"
+                  src="#"
                   width="400"
                   height="225"
                   alt="Proyecto 2"
@@ -243,7 +243,7 @@ export default function Component() {
               </CardContent>
               <CardFooter className="flex justify-end">
                 <Link
-                  href="#"
+                  href="https://discord.com/channels/@me/1182396228567322728/1279278381925531738"
                   className="inline-flex h-9 items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:scale-105 duration-300"
                   prefetch={false}>
                   Ver más
