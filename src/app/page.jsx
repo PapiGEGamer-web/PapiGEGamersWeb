@@ -113,7 +113,7 @@ export default function Component() {
             <p
               className="max-w-[700px] mx-auto text-muted-foreground md:text-xl lg:text-lg">
               Soy un desarrollador web apasionado por crear soluciones innovadoras y de alta calidad. Disfruto de los
-              desafíos técnicos y me esfuerzo por mantener un enfoque en la mejora continua.
+              desafíos técnicos y me esfuerzo por mantener un enfoque en la mejora continua.hola
             </p>
             <div className="flex justify-center gap-4">
               <Link
