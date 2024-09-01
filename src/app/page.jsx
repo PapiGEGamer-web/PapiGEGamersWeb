@@ -23,11 +23,11 @@ To read more about using these font, please visit the Next.js documentation:
 - App Directory: https://nextjs.org/docs/app/building-your-application/optimizing/fonts
 - Pages Directory: https://nextjs.org/docs/pages/building-your-application/optimizing/fonts
 **/
-import Link from "next/link"
+import Link from "https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d52dd5&is=66d3dc55&hm=b7c43c05bf7b159e681ab413d4263de58d1410a57e0d0386adacf88475753af8&"
 import { Sheet, SheetTrigger, SheetContent } from "@/components/ui/sheet"
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardFooter } from "@/components/ui/card"
-import { Label } from "@/components/ui/label"
+import { Card, CardContent, CardFooter } from "https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d52dd5&is=66d3dc55&hm=b7c43c05bf7b159e681ab413d4263de58d1410a57e0d0386adacf88475753af8&"
+import { Label } from "https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d52dd5&is=66d3dc55&hm=b7c43c05bf7b159e681ab413d4263de58d1410a57e0d0386adacf88475753af8&"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 
@@ -131,7 +131,7 @@ export default function Component() {
             </div>
           </div>
           <img
-            src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
+            src="https://cdn.discordapp.com/attachments/1110509491981668465/1279682605041848320/IMG_3234.JPG?ex=66d554cc&is=66d4034c&hm=2e96fe6790f15f63160faeb0ebe8979415b5f095c0d2d756ea465ef205c53480&"
             width="1200"
             height="600"
             alt="Intro"
@@ -195,7 +195,7 @@ export default function Component() {
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
+                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d52dd5&is=66d3dc55&hm=b7c43c05bf7b159e681ab413d4263de58d1410a57e0d0386adacf88475753af8&"
                   width="400"
                   height="225"
                   alt="Proyecto 1"
@@ -224,7 +224,7 @@ export default function Component() {
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
+                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d52dd5&is=66d3dc55&hm=b7c43c05bf7b159e681ab413d4263de58d1410a57e0d0386adacf88475753af8&"
                   width="400"
                   height="225"
                   alt="Proyecto 2"
@@ -253,7 +253,7 @@ export default function Component() {
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
+                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d52dd5&is=66d3dc55&hm=b7c43c05bf7b159e681ab413d4263de58d1410a57e0d0386adacf88475753af8&"
                   width="400"
                   height="225"
                   alt="Proyecto 3"
