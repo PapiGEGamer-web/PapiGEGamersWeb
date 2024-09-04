@@ -55,7 +55,7 @@ export default function Component() {
               Sobre mí
             </Link>
             <Link
-              href="#"
+              href="C:\Users\Administrator\PapiGEGamersWeb\PersonalPortfolio.tsx"
               className="text-sm font-medium hover:underline underline-offset-4"
               prefetch={false}>
               Proyectos
