@@ -224,7 +224,7 @@ export default function Component() {
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
+                  src="https://cdn.discordapp.com/attachments/1179054948063903754/1280789436732538880/image_12.png?ex=66d95b9d&is=66d80a1d&hm=aa5afa867c1d4b2ca1e1153232b1790ba6266e393f222fc5a23511a8b953d1bc&"
                   width="400"
                   height="225"
                   alt="Proyecto 2"
