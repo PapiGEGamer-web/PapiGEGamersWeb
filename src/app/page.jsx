@@ -120,7 +120,7 @@ export default function Component() {
                 href="#"
                 className="inline-flex h-10 items-center justify-center rounded-md bg-primary px-8 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:scale-105 duration-300"
                 prefetch={false}>
-                Ver proyectos
+                Descargar CV
               </Link>
               <Link
                 href="#"
@@ -184,11 +184,10 @@ export default function Component() {
       <section id="projects" className="py-12 md:py-24 lg:py-32 bg-muted/40">
         <div className="container mx-auto px-4 md:px-6 space-y-8 md:space-y-12">
           <div className="text-center space-y-4 md:space-y-6">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Mis proyectos</h2>
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Mis pasatiempos</h2>
             <p
               className="max-w-[800px] mx-auto text-muted-foreground md:text-xl lg:text-lg">
-              Aquí puedes ver algunos de los proyectos en los que he trabajado. Cada uno representa un desafío técnico
-              que he superado con éxito.
+              Aquí puedes ver algunos de los pasatiempos a los que me dedico cada dia.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
@@ -224,7 +223,7 @@ export default function Component() {
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="https://cdn.discordapp.com/attachments/1179054948063903754/1280789436732538880/image_12.png?ex=66d95b9d&is=66d80a1d&hm=aa5afa867c1d4b2ca1e1153232b1790ba6266e393f222fc5a23511a8b953d1bc&"
+                  src="https://revistabyte.es/wp-content/uploads/2020/02/10-libros-para-aprender-a-programar.jpg"
                   width="400"
                   height="225"
                   alt="Proyecto 2"
@@ -235,10 +234,10 @@ export default function Component() {
                 />
               </div>
               <CardContent className="p-4">
-                <h3 className="text-xl font-semibold">Proyecto 2</h3>
+                <h3 className="text-xl font-semibold">Pasatiempo 2</h3>
                 <p className="text-muted-foreground">
-                  Descripción del proyecto 2. Aquí puedes incluir detalles sobre las tecnologías utilizadas, las
-                  funcionalidades implementadas y los desafíos superados.
+                  Me dedico a programar generalmente paginas web, pero tambien muchos programas de Hacking/Cracking y programas utiles de todo tipo.
+                  En el caso de las paginas web utilizo React entre otros y en lo demas Python, C++, C#, etc...
                 </p>
               </CardContent>
               <CardFooter className="flex justify-end">
@@ -288,7 +287,7 @@ export default function Component() {
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Mis habilidades</h2>
             <p
               className="max-w-[800px] mx-auto text-muted-foreground md:text-xl lg:text-lg">
-              Aquí puedes ver algunas de las habilidades que he desarrollado a lo largo de mi carrera como desarrollador
+              Aquí puedes ver algunas de las habilidades que he desarrollado a lo largo de mi carrera personal como desarrollador
               web.
             </p>
           </div>
@@ -343,7 +342,7 @@ export default function Component() {
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Contacto</h2>
             <p
               className="max-w-[800px] mx-auto text-muted-foreground md:text-xl lg:text-lg">
-              Si tienes alguna pregunta o quieres trabajar juntos, no dudes en ponerte en contacto conmigo.
+              Si tienes alguna pregunta o quieres que trabajemos juntos, no dudes en ponerte en contacto conmigo.
             </p>
           </div>
           <form className="max-w-xl mx-auto space-y-4">
