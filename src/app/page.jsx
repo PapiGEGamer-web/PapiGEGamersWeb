@@ -194,7 +194,7 @@ export default function Component() {
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
+                  src="https://img.channelpartner.es/wp-content/uploads/2024/01/16165156/telecomunicaciones-tendencias-2.jpg.webp"
                   width="400"
                   height="225"
                   alt="Proyecto 1"
@@ -205,10 +205,9 @@ export default function Component() {
                 />
               </div>
               <CardContent className="p-4">
-                <h3 className="text-xl font-semibold">Proyecto 1</h3>
+                <h3 className="text-xl font-semibold">Pasatiempo 1</h3>
                 <p className="text-muted-foreground">
-                  Descripción del proyecto 1. Aquí puedes incluir detalles sobre las tecnologías utilizadas, las
-                  funcionalidades implementadas y los desafíos superados.
+                  Me dedico a formarme de forma oficial y extraoficial tanto en mi tiempo libre como en la formacion profesional de TELECO que estoy estudiando con el fin de aprender y poder dedicarme a las telecomunicaciones en mi futuro profesional
                 </p>
               </CardContent>
               <CardFooter className="flex justify-end">
