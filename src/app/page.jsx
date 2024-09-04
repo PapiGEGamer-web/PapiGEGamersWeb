@@ -207,7 +207,7 @@ export default function Component() {
               <CardContent className="p-4">
                 <h3 className="text-xl font-semibold">Pasatiempo 1</h3>
                 <p className="text-muted-foreground">
-                  Me dedico a formarme de forma oficial y extraoficial tanto en mi tiempo libre como en la formacion profesional de TELECO que estoy estudiando con el fin de aprender y poder dedicarme a las telecomunicaciones en mi futuro profesional
+                  Me dedico a formarme de forma oficial y extraoficial tanto en mi tiempo libre como en la formacion profesional de TELECO que estoy estudiando con el fin de aprender y poder dedicarme a las telecomunicaciones en mi futuro profesional.
                 </p>
               </CardContent>
               <CardFooter className="flex justify-end">
