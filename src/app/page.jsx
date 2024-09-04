@@ -58,7 +58,7 @@ export default function Component() {
               href="#"
               className="text-sm font-medium hover:underline underline-offset-4"
               prefetch={false}>
-              Proyectos
+              Pasatiempos
             </Link>
             <Link
               href="#"
