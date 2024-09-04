@@ -263,7 +263,7 @@ export default function Component() {
                 />
               </div>
               <CardContent className="p-4">
-                <h3 className="text-xl font-semibold">Proyecto 3</h3>
+                <h3 className="text-xl font-semibold">Pasatiempo 3</h3>
                 <p className="text-muted-foreground">
                   Me dedico a mantenerme actualizado de todo en internet(sobre todo ciencia) y tambien a divertirme charlando con mis amigos.
                   Tambien me dedico a moderar el servidor de ValorantESP con  +70k y FNLB con +20k de usuarios.
