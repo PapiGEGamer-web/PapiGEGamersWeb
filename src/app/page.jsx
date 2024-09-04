@@ -55,7 +55,7 @@ export default function Component() {
               Sobre mí
             </Link>
             <Link
-              href="C:\Users\Administrator\PapiGEGamersWeb\PersonalPortfolio.tsx"
+              href="https://vscode.dev/github/Papi6E6amer/PapiGEGamersWeb/blob/main/PersonalPortfolio.tsx"
               className="text-sm font-medium hover:underline underline-offset-4"
               prefetch={false}>
               Proyectos
