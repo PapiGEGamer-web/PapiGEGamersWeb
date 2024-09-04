@@ -49,13 +49,13 @@ export default function Component() {
               Inicio
             </Link>
             <Link
-              href="#"
+              href="https://www.youtube.com/watch?v=p38WgakuYDo&list=RDhX0lhueeib8&index=4"
               className="text-sm font-medium hover:underline underline-offset-4"
               prefetch={false}>
               Sobre mí
             </Link>
             <Link
-              href="https://vscode.dev/github/Papi6E6amer/PapiGEGamersWeb/blob/main/PersonalPortfolio.tsx"
+              href="#"
               className="text-sm font-medium hover:underline underline-offset-4"
               prefetch={false}>
               Proyectos
@@ -131,7 +131,7 @@ export default function Component() {
             </div>
           </div>
           <img
-            src="https://cdn.discordapp.com/attachments/1179054948063903754/1280789436732538880/image_12.png?ex=66d95b9d&is=66d80a1d&hm=aa5afa867c1d4b2ca1e1153232b1790ba6266e393f222fc5a23511a8b953d1bc&"
+            src="https://cdn.discordapp.com/attachments/1179054948063903754/1280815497029488702/Bad_Bunny_-_Moscow_Mule_Video_Oficial___Un_Verano_Sin_Ti_11477.mp4?ex=66d973e2&is=66d82262&hm=c0c969d5404a54f257988d895d441efba07fbe14d8b07be261d4ee493842bca9&"
             width="1200"
             height="600"
             alt="Intro"
