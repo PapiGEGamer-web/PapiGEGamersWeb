@@ -131,7 +131,7 @@ export default function Component() {
             </div>
           </div>
           <img
-            src="https://cdn.discordapp.com/attachments/1179054948063903754/1280816838195937281/pilares-de-la-creacion.png?ex=66d97522&is=66d823a2&hm=28cad054e37cd162302ff2e66b697e08264624ab6780229f52ca5faa62edb21e&"
+            src="https://cdn.discordapp.com/attachments/1179054948063903754/1280831818794537123/IMG_20230508_105845_CROP.jpg?ex=66d98316&is=66d83196&hm=d8bbc8653b51c137bd798f90a2063d04580f0fd8fab3c2d3acdbc4be263c6ea0&"
             width="1200"
             height="600"
             alt="Intro"
