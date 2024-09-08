@@ -26,7 +26,7 @@ To read more about using these font, please visit the Next.js documentation:
 import Link from "next/link"
 import { Sheet, SheetTrigger, SheetContent } from "@/components/ui/sheet"
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardFooter } from "@/components/ui/card"
+import { Card, CardContent, CardFooter } from "https://cdn.discordapp.com/attachments/1179054948063903754/1282182453964050462/Proyecto_nuevo.jpg?ex=66de6cf6&is=66dd1b76&hm=c9f13e56eaeb126da2ad78e4292df098086ae8f95a9bc615e4681ce673fb154e&"
 import { Label } from "@/components/ui/label"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
