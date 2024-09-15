@@ -52,7 +52,7 @@ export default function Component() {
               href="https://www.youtube.com/watch?v=p38WgakuYDo&list=RDhX0lhueeib8&index=4"
               className="text-sm font-medium hover:underline underline-offset-4"
               prefetch={false}>
-              Sobre mí
+              Sobre mía
             </Link>
             <Link
               href="#"
