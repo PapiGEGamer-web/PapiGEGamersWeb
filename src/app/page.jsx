@@ -26,7 +26,7 @@ To read more about using these font, please visit the Next.js documentation:
 import Link from "next/link"
 import { Sheet, SheetTrigger, SheetContent } from "@/components/ui/sheet"
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardFooter } from "@/components/ui/card"
+import { Card, CardContent, CardFooter } from "https://cdn.discordapp.com/attachments/1179054948063903754/1282182453964050462/Proyecto_nuevo.jpg?ex=66de6cf6&is=66dd1b76&hm=c9f13e56eaeb126da2ad78e4292df098086ae8f95a9bc615e4681ce673fb154e&"
 import { Label } from "@/components/ui/label"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
@@ -49,7 +49,7 @@ export default function Component() {
               Inicio
             </Link>
             <Link
-              href="#"
+              href="https://www.youtube.com/watch?v=p38WgakuYDo&list=RDhX0lhueeib8&index=4"
               className="text-sm font-medium hover:underline underline-offset-4"
               prefetch={false}>
               Sobre mí
@@ -58,7 +58,7 @@ export default function Component() {
               href="#"
               className="text-sm font-medium hover:underline underline-offset-4"
               prefetch={false}>
-              Proyectos
+              Pasatiempos
             </Link>
             <Link
               href="#"
@@ -120,7 +120,7 @@ export default function Component() {
                 href="#"
                 className="inline-flex h-10 items-center justify-center rounded-md bg-primary px-8 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:scale-105 duration-300"
                 prefetch={false}>
-                Ver proyectos
+                Descargar CV
               </Link>
               <Link
                 href="#"
@@ -131,7 +131,7 @@ export default function Component() {
             </div>
           </div>
           <img
-            src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
+            src="https://cdn.discordapp.com/attachments/1179054948063903754/1281836552955101234/Proyecto_nuevo.jpg?ex=66dd2ad1&is=66dbd951&hm=4f1fe6b92d86e75e0e08f37de84c9d601d3e6d616a08539e19cf3cecaed08913&"
             width="1200"
             height="600"
             alt="Intro"
@@ -184,18 +184,17 @@ export default function Component() {
       <section id="projects" className="py-12 md:py-24 lg:py-32 bg-muted/40">
         <div className="container mx-auto px-4 md:px-6 space-y-8 md:space-y-12">
           <div className="text-center space-y-4 md:space-y-6">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Mis proyectos</h2>
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Mis pasatiempos</h2>
             <p
               className="max-w-[800px] mx-auto text-muted-foreground md:text-xl lg:text-lg">
-              Aquí puedes ver algunos de los proyectos en los que he trabajado. Cada uno representa un desafío técnico
-              que he superado con éxito.
+              Aquí puedes ver algunos de los pasatiempos a los que me dedico cada dia.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
+                  src="https://img.channelpartner.es/wp-content/uploads/2024/01/16165156/telecomunicaciones-tendencias-2.jpg.webp"
                   width="400"
                   height="225"
                   alt="Proyecto 1"
@@ -206,10 +205,9 @@ export default function Component() {
                 />
               </div>
               <CardContent className="p-4">
-                <h3 className="text-xl font-semibold">Proyecto 1</h3>
+                <h3 className="text-xl font-semibold">Pasatiempo 1</h3>
                 <p className="text-muted-foreground">
-                  Descripción del proyecto 1. Aquí puedes incluir detalles sobre las tecnologías utilizadas, las
-                  funcionalidades implementadas y los desafíos superados.
+                  Me dedico a formarme de forma oficial y extraoficial tanto en mi tiempo libre como en la formacion profesional de TELECO que estoy estudiando con el fin de aprender y poder dedicarme a las telecomunicaciones en mi futuro profesional.
                 </p>
               </CardContent>
               <CardFooter className="flex justify-end">
@@ -224,7 +222,7 @@ export default function Component() {
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
+                  src="https://revistabyte.es/wp-content/uploads/2020/02/10-libros-para-aprender-a-programar.jpg"
                   width="400"
                   height="225"
                   alt="Proyecto 2"
@@ -235,10 +233,10 @@ export default function Component() {
                 />
               </div>
               <CardContent className="p-4">
-                <h3 className="text-xl font-semibold">Proyecto 2</h3>
+                <h3 className="text-xl font-semibold">Pasatiempo 2</h3>
                 <p className="text-muted-foreground">
-                  Descripción del proyecto 2. Aquí puedes incluir detalles sobre las tecnologías utilizadas, las
-                  funcionalidades implementadas y los desafíos superados.
+                  Me dedico a programar generalmente paginas web, pero tambien muchos programas de Hacking/Cracking y programas utiles de todo tipo.
+                  En el caso de las paginas web utilizo React entre otros y en lo demas Python, C++, C#, etc...
                 </p>
               </CardContent>
               <CardFooter className="flex justify-end">
@@ -253,10 +251,10 @@ export default function Component() {
             <Card className="max-w-[400px] hover:scale-105 duration-300">
               <div className="flex justify-center">
                 <img
-                  src="https://cdn.discordapp.com/attachments/1182396228567322728/1279278381174882347/pilares-de-la-creacion.png?ex=66d3dc55&is=66d28ad5&hm=2b4f0176706c925a136cc57f58e6247a03f2d3f74a2c21cccae219aeedd3493c&"
+                  src="https://projectl33t.com/wp-content/uploads/2024/03/discord.webp"
                   width="400"
                   height="225"
-                  alt="Proyecto 3"
+                  alt="Pasatiempo 3"
                   className="aspect-[16/9] overflow-hidden rounded-xl object-cover"
                   style={{
                     borderRadius: '10px', borderBottomLeftRadius: '0px', borderBottomRightRadius: '0px'
@@ -264,10 +262,10 @@ export default function Component() {
                 />
               </div>
               <CardContent className="p-4">
-                <h3 className="text-xl font-semibold">Proyecto 3</h3>
+                <h3 className="text-xl font-semibold">Pasatiempo 3</h3>
                 <p className="text-muted-foreground">
-                  Descripción del proyecto 3. Aquí puedes incluir detalles sobre las tecnologías utilizadas, las
-                  funcionalidades implementadas y los desafíos superados.
+                  Me dedico a mantenerme actualizado de todo en internet(sobre todo ciencia) y tambien a divertirme charlando con mis amigos.
+                  Tambien me dedico a moderar el servidor de ValorantESP con  +70k y FNLB con +20k de usuarios.
                 </p>
               </CardContent>
               <CardFooter className="flex justify-end">
@@ -288,7 +286,7 @@ export default function Component() {
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Mis habilidades</h2>
             <p
               className="max-w-[800px] mx-auto text-muted-foreground md:text-xl lg:text-lg">
-              Aquí puedes ver algunas de las habilidades que he desarrollado a lo largo de mi carrera como desarrollador
+              Aquí puedes ver algunas de las habilidades que he desarrollado a lo largo de mi carrera personal como desarrollador
               web.
             </p>
           </div>
@@ -343,7 +341,7 @@ export default function Component() {
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Contacto</h2>
             <p
               className="max-w-[800px] mx-auto text-muted-foreground md:text-xl lg:text-lg">
-              Si tienes alguna pregunta o quieres trabajar juntos, no dudes en ponerte en contacto conmigo.
+              Si tienes alguna pregunta o quieres que trabajemos juntos, no dudes en ponerte en contacto conmigo.
             </p>
           </div>
           <form className="max-w-xl mx-auto space-y-4">
